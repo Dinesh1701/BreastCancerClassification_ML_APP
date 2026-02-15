@@ -4,7 +4,7 @@ The objective of this project is to build and compare multiple Machine Learning 
 
 The goal is to evaluate and compare the performance of different ML algorithms using multiple evaluation metrics and deploy the best-performing model using a Streamlit web application.
 
-b. Dataset Description (1 Mark)
+b. Dataset Description 
 
 The dataset used in this project is the Breast Cancer Wisconsin Diagnostic Dataset, obtained from Kaggle (UCI repository).
 
@@ -36,7 +36,7 @@ Checked and handled missing values
 
 Applied Standard Scaling before model training
 
-c. Models Used and Evaluation Metrics (6 Marks)
+c. Models Used and Evaluation Metrics 
 
 The following six classification models were implemented on the same dataset:
 
